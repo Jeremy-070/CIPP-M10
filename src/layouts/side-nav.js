@@ -220,7 +220,7 @@ export const SideNav = (props) => {
                     variant="caption"
                     sx={{ lineHeight: 4, textAlign: "center" }}
                   >
-                    This application is sponsored by
+                    ## Please use with caution ##
                   </Typography>
                   {/*<Box
                     sx={{
