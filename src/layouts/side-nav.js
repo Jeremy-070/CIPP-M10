@@ -222,7 +222,7 @@ export const SideNav = (props) => {
                   >
                     This application is sponsored by
                   </Typography>
-                  <Box
+                  {/*<Box
                     sx={{
                       display: "flex",
                       justifyContent: "center",
@@ -235,7 +235,7 @@ export const SideNav = (props) => {
                       onClick={() => window.open(randomimg.link)}
                       width={"100px"}
                     />
-                  </Box>
+                  </Box>*/}
                 </>
               )}
             </Box>{" "}
